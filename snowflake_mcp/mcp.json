@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "snowflake-mcp": {
+      "command": "C:/Users/AdarshVadde/bob_sample/.venv/Scripts/python.exe",
+      "args": [
+        "C:/Users/AdarshVadde/bob_sample/snowflake_mcp/snowflake_server.py"
+      ]
+    },
+    "snowflake-cost": {
+      "url": "http://127.0.0.1:8000/mcp"
+    }
+  }
+}
